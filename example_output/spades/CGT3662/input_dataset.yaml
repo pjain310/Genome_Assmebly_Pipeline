@@ -1,0 +1,8 @@
+- "left reads":
+  - "/projects/team3/genomeassembly/temp/trim/CGT3662_1.fq.gz"
+  "orientation": "fr"
+  "right reads":
+  - "/projects/team3/genomeassembly/temp/trim/CGT3662_2.fq.gz"
+  "single reads":
+  - "/projects/team3/genomeassembly/temp/trim/CGT3662_UP.fq.gz"
+  "type": "paired-end"

@@ -1,0 +1,9 @@
+- "left reads":
+  - "/projects/team3/genomeassembly/temp/spades/CGT3662/corrected/CGT3662_1.fq.00.0_0.cor.fastq.gz"
+  "orientation": "fr"
+  "right reads":
+  - "/projects/team3/genomeassembly/temp/spades/CGT3662/corrected/CGT3662_2.fq.00.0_0.cor.fastq.gz"
+  "single reads":
+  - "/projects/team3/genomeassembly/temp/spades/CGT3662/corrected/CGT3662__unpaired.00.0_0.cor.fastq.gz"
+  - "/projects/team3/genomeassembly/temp/spades/CGT3662/corrected/CGT3662_UP.fq.00.0_1.cor.fastq.gz"
+  "type": "paired-end"

@@ -1,0 +1,36 @@
+Command line: /projects/home/whutwagner3/miniconda2/envs/bass3/bin/spades.py	-k	99,105,107,111	-1	/projects/team3/genomeassembly/temp/trim/CGT3662_1.fq.gz	-2	/projects/team3/genomeassembly/temp/trim/CGT3662_2.fq.gz	-s	/projects/team3/genomeassembly/temp/trim/CGT3662_UP.fq.gz	--careful	--cov-cutoff	auto	-o	/projects/team3/genomeassembly/temp/spades/CGT3662	
+
+System information:
+  SPAdes version: 3.13.0
+  Python version: 3.6.8
+  OS: Linux-3.10.0-957.1.3.el7.x86_64-x86_64-with-redhat-7.6-Maipo
+
+Output dir: /projects/team3/genomeassembly/temp/spades/CGT3662
+Mode: read error correction and assembling
+Debug mode is turned OFF
+
+Dataset parameters:
+  Multi-cell mode (you should set '--sc' flag if input data was obtained with MDA (single-cell) technology or --meta flag if processing metagenomic dataset)
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/projects/team3/genomeassembly/temp/trim/CGT3662_1.fq.gz']
+      right reads: ['/projects/team3/genomeassembly/temp/trim/CGT3662_2.fq.gz']
+      interlaced reads: not specified
+      single reads: ['/projects/team3/genomeassembly/temp/trim/CGT3662_UP.fq.gz']
+      merged reads: not specified
+Read error correction parameters:
+  Iterations: 1
+  PHRED offset will be auto-detected
+  Corrected reads will be compressed
+Assembly parameters:
+  k: [99, 105, 107, 111]
+  Repeat resolution is enabled
+  Mismatch careful mode is turned ON
+  MismatchCorrector will be used
+  Coverage cutoff is turned ON and threshold will be auto-detected
+Other parameters:
+  Dir for temp files: /projects/team3/genomeassembly/temp/spades/CGT3662/tmp
+  Threads: 16
+  Memory limit (in Gb): 62
+

@@ -1,0 +1,4 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	CGT3662_1	/projects/team3/genomeassembly/temp/fastqc_output/CGT3662_1_fastqc.zip
+FastQC	all_sections	CGT3662_2	/projects/team3/genomeassembly/temp/fastqc_output/CGT3662_2_fastqc.zip
+FastQC	all_sections	CGT3662_UP	/projects/team3/genomeassembly/temp/fastqc_output/CGT3662_UP_fastqc.zip
